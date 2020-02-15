@@ -2,7 +2,7 @@
 
 Jupyter notebook to plot a heart-shaped vector using spiking neurons in Nengo.
 
-[simulation image](https://github.com/JadinTredup/HeartShapedNeurons/blob/master/Images/hearts.png)
+![simulation image](https://github.com/JadinTredup/HeartShapedNeurons/blob/master/Images/hearts.png)
 
 ## Dependencies
 
